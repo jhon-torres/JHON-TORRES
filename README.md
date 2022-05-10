@@ -1,6 +1,6 @@
-## Hola 👋 soy Jhon Torres
+# Hola 👋 soy Jhon Torres
 
-# Acerca de mi
+## Acerca de mi
  📓 Estudiante de la Esfot, de la carrera Desarrollo de Software.
  Como hobbies:
   - Dibujar 
