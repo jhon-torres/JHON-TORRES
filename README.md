@@ -17,3 +17,15 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhon-torres&theme=nord_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhon-torres&theme=nord_dark)
+
+## Proyectos Principales
+
+<p align="left">
+ <a href="https://github.com/jhon-torres/Crud-Portafolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jhon-torres&repo=Crud-Portafolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Crud-Portafolio"></a>
+  <a href="https://github.com/jhon-torres/Frontend-Mentor-Huddle-landing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jhon-torres&repo=Frontend-Mentor-Huddle-landing&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend-Mentor-Huddle-landing"></a>
+</p>
+
+## Colaboraciones
+<p align="left">
+ <a href="https://github.com/AleBD72/ProyectoPOO_2022_MT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleBD72&repo=ProyectoPOO_2022_MT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ProyectoPOO_2022_MT"></a>
+</p>
