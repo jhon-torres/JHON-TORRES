@@ -7,14 +7,11 @@
 
 ## Acerca de mi
  📓 Estudiante de la Esfot, de la carrera Desarrollo de Software.
+ 
  Como hobbies:
   - Dibujar 
   - Jugar videojuegos 
   - Practico Fútbol
   
 ## Habilidades
-
-- 🖥 C++
-- 🖥 HTML
-- 🖥 CSS
-- 🖥 JAVASCRIPT
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhon-torres&theme=nord_dark)
