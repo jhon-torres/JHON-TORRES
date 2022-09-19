@@ -21,11 +21,12 @@
 ## Proyectos Principales
 
 <p align="left">
- <a href="https://github.com/jhon-torres/Crud-Portafolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jhon-torres&repo=Crud-Portafolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Crud-Portafolio"></a>
-  <a href="https://github.com/jhon-torres/Frontend-Mentor-Huddle-landing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jhon-torres&repo=Frontend-Mentor-Huddle-landing&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Frontend-Mentor-Huddle-landing"></a>
+ <a href="https://github.com/jhon-torres/Crud-Portafolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jhon-torres&repo=Crud-Portafolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Crud-Portafolio"></a>
+  <a href="https://github.com/jhon-torres/Frontend-Mentor-Huddle-landing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jhon-torres&repo=Frontend-Mentor-Huddle-landing&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Frontend-Mentor-Huddle-landing"></a>
 </p>
 
 ## Colaboraciones
 <p align="left">
- <a href="https://github.com/AleBD72/ProyectoPOO_2022_MT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleBD72&repo=ProyectoPOO_2022_MT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ProyectoPOO_2022_MT"></a>
+ <a href="https://github.com/AleBD72/ProyectoPOO_2022_MT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleBD72&repo=ProyectoPOO_2022_MT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="ProyectoPOO_2022_MT"></a>
+ <a href="https://github.com/AleBD72/Calculadora-Evaluacion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AleBD72&repo=Calculadora-Evaluacion&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Calculadora-Evaluacion"></a>
 </p>
