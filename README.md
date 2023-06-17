@@ -5,8 +5,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Slab&size=28&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=1000%&lines=Hola+mi+nombre+es+Jhon+Torres.;Actualmente%2Cestoy+estudiando+en+la+universidad+EPN+de+Quito%2C+Ecuador.)](https://git.io/typing-svg)
 
-## Acerca de mi
+## Acerca de mi!
+
  📓 Estudiante de la Esfot, de la carrera Desarrollo de Software.
+
+ ## Visita mi [página](https://jhon-torres.netlify.app/)
+ <img width="100" alt="image" src="https://github.com/jhon-torres/JHON-TORRES/assets/38541491/47eb898f-5ff1-4fee-ba8e-e0596e5574ce">
+
  
  Como hobbies:
   - Dibujar 
