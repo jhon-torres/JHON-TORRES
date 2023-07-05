@@ -9,9 +9,6 @@
 
  📓 Estudiante de la Esfot, de la carrera Desarrollo de Software.
 
- ## Visita mi [página](https://jhon-torres.netlify.app/)
- <img width="100" alt="image" src="https://github.com/jhon-torres/JHON-TORRES/assets/38541491/47eb898f-5ff1-4fee-ba8e-e0596e5574ce">
-
  
  Como hobbies:
   - Dibujar 
